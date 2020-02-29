@@ -1,0 +1,31 @@
+
+.a{
+    text-decoration: none;
+    text-transform: none;
+    font-family: Montserrat;
+
+}
+nav{
+    border-collapse: collapse;
+    border: 1px solid grey;
+}
+button:hover{
+border: 2px inset grey;
+background-color: rgb(218, 210, 210);
+}
+button{
+    background-color: white;
+    list-style: square;    
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 50px;
+    padding-left: 50px;
+    border: 1px solid black;
+
+}
+.p{
+    background-color: rgb(75, 75, 226);
+    color: white;
+    font-family:Caladea;
+    text-align: left;
+}
